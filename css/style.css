@@ -133,7 +133,7 @@ header{
 .hero-section{
     width: 100vw;
     min-height: 662px;
-    background: linear-gradient(180deg, #02B5EA 0%, rgba(2, 181, 234, 0.15) 100%), url(images/Union-desktop-bg.png) no-repeat;
+    background: linear-gradient(180deg, #02B5EA 0%, rgba(2, 181, 234, 0.15) 100%), url(../images/Union-desktop-bg.png) no-repeat;
     background-position: center right;
     background-size: contain;
     overflow: hidden;
